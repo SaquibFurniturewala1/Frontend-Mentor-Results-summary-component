@@ -18,8 +18,8 @@ Interactive States: Experience clear hover and focus states for all interactive 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/SaquibFurniturewala1/Frontend-Mentor-Results-summary-component.git
+- Live Site URL:  https://saquibfurniturewala1.github.io/Frontend-Mentor-Results-summary-component/
 
 ## My process
 
